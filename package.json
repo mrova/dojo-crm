@@ -1,0 +1,11 @@
+{
+	"name": "CRM",
+	"version":"0.1.1",
+	"main":"main",
+	"dependencies": {
+		"dojo":"1.8.3"
+	},
+	"description": "SimpleSoft CRM project",
+	"homepage": "http://www.simplesoft.pl/",
+	"dojoBuild": "crm.profile.js"
+}
